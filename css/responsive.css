@@ -1,0 +1,270 @@
+/* Targeting various screen sizes based on max-width */
+@media (max-width: 1920px) {
+    /* CSS rules for screens up to 1920px wide */
+  }
+  
+  @media (max-width: 1600px) {
+    /* CSS rules for screens up to 1600px wide */
+    h1 {
+      font-size: 3rem;
+      line-height: 1.4;
+      font-weight: 500;
+      color: var(--primary-text);
+  }
+  h3 {
+    color: var(--dark-color);
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: 600;
+}
+}
+
+  
+  @media (max-width: 1536px) {
+    /* CSS rules for screens up to 1536px wide */
+  }
+  
+  @media (max-width: 1440px) {
+    /* CSS rules for screens up to 1440px wide */
+    h3 {
+      color: var(--dark-color);
+      font-size: 2.5rem;
+      line-height: 1.2;
+      font-weight: 600;
+  }
+}
+  
+  
+  @media (max-width: 1400px) {
+    /* CSS rules for screens up to 1400px wide */
+    .img-fluid {
+      max-width: 60%;
+      height: auto;
+  }
+  h3 {
+    color: var(--dark-color);
+    font-size: 2.2rem;
+    line-height: 1.2;
+    font-weight: 600;
+}
+.icon-box{
+  max-width: 80px;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.footer_wrapper p {
+  font-size: 1.175rem;
+}
+
+h5 {
+  font-size: 1.7rem;
+}
+.footer_wrapper ul li {
+  font-size: 1.575rem;
+}
+h1 {
+  font-size: 2.5rem;
+}
+}
+  
+  @media (max-width: 1366px) {
+    /* CSS rules for screens up to 1366px wide */
+    h4 {
+      font-size: 2rem;
+    }
+    .iconimage_wrapper {
+      padding-right: 0px;
+      max-width: 50px;
+  }
+  }
+  
+  @media (max-width: 1280px) {
+    /* CSS rules for screens up to 1280px wide */
+    h5 {
+      font-size: 1.1rem;
+  }
+}
+  
+  
+  @media (max-width: 1024px) {
+    /* CSS rules for screens up to 1024px wide */
+    .footer_wrapper p {
+      font-size: 0.875rem;
+  }
+  .footer_wrapper ul li {
+    font-size: 1.275rem;
+}
+.social_icon {
+  font-size: 1rem;
+}
+p {
+  font-size: 1.1rem;
+}
+.top-left-sec {
+  margin-left: 1rem;
+}
+
+h4 {
+  font-size: 1.7rem;
+}
+.main-btn {
+  padding: 0.45rem 2.575rem;
+  font-size: 1.1rem;
+}
+.icon-box {
+  max-width: 80px;
+}
+.img-icon {
+  padding-left: 30.8px;
+}
+.child-img-wrapper img {
+  width: 39.5px;
+}
+.main-btn2 {
+  padding: 0.05rem 2.475rem;
+  font-size: 1.3rem;
+  }
+  .card-image-wrapper {
+    width: 98px;
+}
+h3 {
+  font-size: 2.1rem;
+}
+h1 {
+  font-size: 2.1rem;
+}
+.header_wrapper .nav-item .nav-link {
+  font-size: 16.7px;
+}
+.icon-box {
+  max-width: 65px;
+}
+section {
+  padding-block: 3rem;
+  padding-inline: 3rem;
+}
+  }
+  
+  @media (max-width: 991px) {
+    /* CSS rules for screens up to 991px wide */
+    .img-fluid {
+      max-width: 95%;
+      height: auto;
+  }
+  .footer_wrapper ul li {
+    font-size: 0.975rem;
+}
+.img-fluid {
+  max-width: 90%;
+}
+.footer_wrapper p {
+  font-size: 0.975rem;
+}
+.company_wrapper{
+  text-align: center;
+}
+.support_wrapper{
+  text-align: center;
+}
+  }
+  
+  @media (max-width: 800px) {
+    /* CSS rules for screens up to 800px wide */
+  }
+  
+  @media (max-width: 767px) {
+    /* CSS rules for screens up to 767px wide */
+    .card {
+      align-items: center;
+  }
+  .img-fluid {
+    max-width: 80%;
+}
+.row{
+  text-align: center;
+}
+.img-fluid {
+  max-width: 66%;
+}
+
+.footer_wrapper ul {
+  padding-left: 10rem;
+}
+  }
+  
+  @media (max-width: 600px) {
+    /* CSS rules for screens up to 600px wide */
+  }
+  
+  @media (max-width: 540px) {
+    /* CSS rules for screens up to 540px wide */
+    h5 {
+      font-size: 0.8rem;
+  }
+  .main-btn2 {
+    padding: 0.15rem 1.875rem;
+    font-size: 1rem;
+}
+
+  }
+  
+  @media (max-width: 480px) {
+    /* CSS rules for screens up to 480px wide */
+    .footer_wrapper ul {
+      padding-left: 5rem;
+  }
+  
+    h5 {
+      font-size: 1.4rem;
+      margin-left: 1.1rem;
+  }
+  .footer_wrapper p {
+    font-size: 1.275rem;
+}
+.footer_wrapper h5 {
+  color: #0f9d20;
+}
+  }
+  
+  @media (max-width: 425px) {
+    /* CSS rules for screens up to 425px wide */
+    .footer_wrapper ul {
+      padding-left: 3.5rem;
+  }
+  h3 {
+    font-size: 1.7rem;
+}
+.card-image-wrapper {
+  width: 93.5px;
+}
+  }
+  
+  @media (max-width: 375px) {
+    /* CSS rules for screens up to 375px wide */
+    .footer_wrapper ul {
+      padding-left: 1.4rem;
+  }
+  h5 {
+    font-size: 1.5rem;
+    margin-left: 1.1rem;
+}
+  }
+  
+  @media (max-width: 320px) {
+    /* CSS rules for screens up to 320px wide */
+        /* .child-img-wrapper {
+        flex-wrap: wrap;
+        justify-content: center;
+        flex-direction: column;
+    } */
+    .child-img-wrapper {
+      flex-wrap: wrap;
+      justify-content: center;
+      flex-direction: column;
+  }
+}
+
+  
